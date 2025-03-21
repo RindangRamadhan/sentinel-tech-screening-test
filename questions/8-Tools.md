@@ -19,7 +19,7 @@ Tools (Rate yourself 1 to 5) :
 ## Answer:
 - Git : 5
 - Redis : 4
-- VSCode / JetBrains : 4
+- VSCode / JetBrains : 5
 - Linux : 3
 - AWS
     - EC2 : 2

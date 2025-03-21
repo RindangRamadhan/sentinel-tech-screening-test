@@ -85,10 +85,10 @@ FCM-->User: Notification
 
 | **Component**         | **Technology**                                                                 |
 |------------------------|--------------------------------------------------------------------------------|
-| **Backend Service**    | Golang (Gin), Node.js (Express.js), Python (Flask/Django)                      |
-| **Database**           | PostgreSQL, MySQL                                                              |
-| **Message Broker**     | RabbitMQ, Apache Kafka                                                         |
-| **File Storage**       | AWS S3, Google Cloud Storage, Azure Blob Storage                               |
+| **Backend Service**    | Golang (Gin) / Node.js (Express.js) / Python (Flask/Django)                      |
+| **Database**           | PostgreSQL / MySQL / Mongo DB                                                          |
+| **Message Broker**     | RabbitMQ / Apache Kafka                                                         |
+| **File Storage**       | AWS S3 / Google Cloud Storage                           |
 | **Notification**       | Firebase Cloud Messaging (FCM)                                                |
 
 
@@ -180,10 +180,10 @@ WebApp-->User: Display Photo Status
 
 | **Component**         | **Technology**                                                                 |
 |------------------------|--------------------------------------------------------------------------------|
-| **Backend Service**    | Golang (Gin), Node.js (Express.js), Python (Flask/Django)                      |
-| **Database**           | PostgreSQL, MySQL                                                              |
-| **Message Broker**     | RabbitMQ, Apache Kafka                                                         |
-| **File Storage**       | AWS S3, Google Cloud Storage, Azure Blob Storage                               |
+| **Backend Service**    | Golang (Gin) / Node.js (Express.js) / Python (Flask/Django)                      |
+| **Database**           | PostgreSQL / MySQL                                                              |
+| **Message Broker**     | RabbitMQ / Apache Kafka                                                         |
+| **File Storage**       | AWS S3 / Google Cloud Storage                             |
 | **Notification**       | Firebase Cloud Messaging (FCM)                                                |
 
 
